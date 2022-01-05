@@ -36,6 +36,34 @@ h1 {
 #center {
   text-align: center;
 }
-.second-section {
-  display: flex;
+
+
+}
+.part {
+  border: 1px solid white;
+}
+.div-image img {
+  width: 40%;
+}
+.first-color {
+  background-color: rgb(230, 240, 243);
+  margin-left:10%;
+  margin-bottom: 10%;
+  padding: 25px;
+  border-radius: 20px;
+}
+.second-color {
+  background-color: rgb(248, 236, 240);
+  margin-left: 20px;
+  margin-bottom: 10%;
+  padding: 25px;
+  border-radius: 20px;
+}
+.third-color {
+  background-color: rgb(193, 209, 230);
+  margin-right: 10%;
+  margin-left: 20px;
+  margin-bottom: 10%;
+  padding: 25px;
+  border-radius: 20px;
 }
