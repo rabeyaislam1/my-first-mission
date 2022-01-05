@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+.first-section {
+  display: flex;
+}
+h1 {
+  font-family: "Poppins", sans-serif;
+  font-family: "Yeseva One", cursive;
+  font-size: 50px;
+}
+.border {
+  border-left: 4px solid tomato;
+  padding-left: 10px;
+  border-radius: 7px;
+}
+.heading-color {
+  color: sandybrown;
+}
+.flex {
+  width: 50%;
+  padding-left: 10%;
+  padding-top: 8%;
+}
+.flex img {
+  width: 80%;
+}
+.button {
+  text-decoration: none;
+  color: white;
+  background-color: tomato;
+  padding: 15px 40px;
+  font-weight: 700;
+  border-radius: 5px;
+}
+#center {
+  text-align: center;
+}
+.second-section {
+  display: flex;
+}
