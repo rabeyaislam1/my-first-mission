@@ -75,7 +75,7 @@ h2 {
   background-repeat: no-repeat;
   background-position: left;
   background-size: 20%;
-  margin-bottom: 10%;
+  margin-bottom: 0%;
   margin-right: 5%;
 }
 .flex img {
@@ -103,7 +103,7 @@ h2 {
   font-family: "Great Vibes", cursive;
   text-align: center;
   margin-top: 10%;
-  background-color: rgb(3, 19, 31);
+  background-color: rgb(8, 24, 39);
   color: white;
   padding-top: 3px;
   padding-bottom: 1px;
